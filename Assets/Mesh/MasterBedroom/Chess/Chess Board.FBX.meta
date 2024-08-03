@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: c54f75a32c894d54cbc027f6a66d66ad
+timeCreated: 1719479389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B_Bishop_1
+    100002: B_Bishop_2
+    100004: B_King
+    100006: B_Knight_1
+    100008: B_Knight_2
+    100010: B_Pawn_1
+    100012: B_Pawn_2
+    100014: B_Pawn_3
+    100016: B_Pawn_4
+    100018: B_Pawn_5
+    100020: B_Pawn_6
+    100022: B_Pawn_7
+    100024: B_Pawn_8
+    100026: B_Queen
+    100028: B_Rook_1
+    100030: B_Rook_2
+    100032: Chess Board
+    100034: //RootNode
+    100036: W_Bishop_1
+    100038: W_Bishop_2
+    100040: W_King
+    100042: W_Knight_1
+    100044: W_Knight_2
+    100046: W_Pawn_1
+    100048: W_Pawn_2
+    100050: W_Pawn_3
+    100052: W_Pawn_4
+    100054: W_Pawn_5
+    100056: W_Pawn_6
+    100058: W_Pawn_7
+    100060: W_Pawn_8
+    100062: W_Queen
+    100064: W_Rook_1
+    100066: W_Rook_2
+    400000: B_Bishop_1
+    400002: B_Bishop_2
+    400004: B_King
+    400006: B_Knight_1
+    400008: B_Knight_2
+    400010: B_Pawn_1
+    400012: B_Pawn_2
+    400014: B_Pawn_3
+    400016: B_Pawn_4
+    400018: B_Pawn_5
+    400020: B_Pawn_6
+    400022: B_Pawn_7
+    400024: B_Pawn_8
+    400026: B_Queen
+    400028: B_Rook_1
+    400030: B_Rook_2
+    400032: Chess Board
+    400034: //RootNode
+    400036: W_Bishop_1
+    400038: W_Bishop_2
+    400040: W_King
+    400042: W_Knight_1
+    400044: W_Knight_2
+    400046: W_Pawn_1
+    400048: W_Pawn_2
+    400050: W_Pawn_3
+    400052: W_Pawn_4
+    400054: W_Pawn_5
+    400056: W_Pawn_6
+    400058: W_Pawn_7
+    400060: W_Pawn_8
+    400062: W_Queen
+    400064: W_Rook_1
+    400066: W_Rook_2
+    2300000: B_Bishop_1
+    2300002: B_Bishop_2
+    2300004: B_King
+    2300006: B_Knight_1
+    2300008: B_Knight_2
+    2300010: B_Pawn_1
+    2300012: B_Pawn_2
+    2300014: B_Pawn_3
+    2300016: B_Pawn_4
+    2300018: B_Pawn_5
+    2300020: B_Pawn_6
+    2300022: B_Pawn_7
+    2300024: B_Pawn_8
+    2300026: B_Queen
+    2300028: B_Rook_1
+    2300030: B_Rook_2
+    2300032: Chess Board
+    2300034: W_Bishop_1
+    2300036: W_Bishop_2
+    2300038: W_King
+    2300040: W_Knight_1
+    2300042: W_Knight_2
+    2300044: W_Pawn_1
+    2300046: W_Pawn_2
+    2300048: W_Pawn_3
+    2300050: W_Pawn_4
+    2300052: W_Pawn_5
+    2300054: W_Pawn_6
+    2300056: W_Pawn_7
+    2300058: W_Pawn_8
+    2300060: W_Queen
+    2300062: W_Rook_1
+    2300064: W_Rook_2
+    3300000: B_Bishop_1
+    3300002: B_Bishop_2
+    3300004: B_King
+    3300006: B_Knight_1
+    3300008: B_Knight_2
+    3300010: B_Pawn_1
+    3300012: B_Pawn_2
+    3300014: B_Pawn_3
+    3300016: B_Pawn_4
+    3300018: B_Pawn_5
+    3300020: B_Pawn_6
+    3300022: B_Pawn_7
+    3300024: B_Pawn_8
+    3300026: B_Queen
+    3300028: B_Rook_1
+    3300030: B_Rook_2
+    3300032: Chess Board
+    3300034: W_Bishop_1
+    3300036: W_Bishop_2
+    3300038: W_King
+    3300040: W_Knight_1
+    3300042: W_Knight_2
+    3300044: W_Pawn_1
+    3300046: W_Pawn_2
+    3300048: W_Pawn_3
+    3300050: W_Pawn_4
+    3300052: W_Pawn_5
+    3300054: W_Pawn_6
+    3300056: W_Pawn_7
+    3300058: W_Pawn_8
+    3300060: W_Queen
+    3300062: W_Rook_1
+    3300064: W_Rook_2
+    4300000: B_Pawn_8
+    4300002: B_Pawn_7
+    4300004: B_Pawn_6
+    4300006: B_Pawn_5
+    4300008: B_Pawn_4
+    4300010: B_Pawn_3
+    4300012: B_Pawn_2
+    4300014: B_Pawn_1
+    4300016: B_Rook_2
+    4300018: B_Rook_1
+    4300020: B_Knight_1
+    4300022: B_Bishop_1
+    4300024: B_King
+    4300026: B_Queen
+    4300028: B_Bishop_2
+    4300030: B_Knight_2
+    4300032: W_Bishop_2
+    4300034: W_Bishop_1
+    4300036: W_King
+    4300038: W_Knight_2
+    4300040: W_Knight_1
+    4300042: W_Pawn_8
+    4300044: W_Pawn_7
+    4300046: W_Pawn_6
+    4300048: W_Pawn_5
+    4300050: W_Pawn_4
+    4300052: W_Pawn_3
+    4300054: W_Pawn_2
+    4300056: W_Pawn_1
+    4300058: W_Queen
+    4300060: W_Rook_2
+    4300062: W_Rook_1
+    4300064: Chess Board
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

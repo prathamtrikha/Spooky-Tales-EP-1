@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 55f0b2e1e5d00a64c812ec02803f522e
+timeCreated: 1719478546
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AV Armchair
+    100002: AV Armchair Drapped Cloth
+    100004: AV Armchair Drapped Cloth.Shape
+    100006: AV Armchair Drapped Cloth.Shape_MeshPart0
+    100008: AV Armchair Drapped Cloth.Shape_MeshPart1
+    100010: AV Armchair Drapped Cloth.Shape_MeshPart2
+    100012: AV Armchair Drapped Cloth.Shape_MeshPart3
+    100014: AV Armchair Drapped Cloth.Shape_MeshPart4
+    100016: AV Armchair.Shape
+    100018: AV Armchair.Shape_MeshPart0
+    100020: AV Armchair.Shape_MeshPart1
+    100022: //RootNode
+    400000: AV Armchair
+    400002: AV Armchair Drapped Cloth
+    400004: AV Armchair Drapped Cloth.Shape
+    400006: AV Armchair Drapped Cloth.Shape_MeshPart0
+    400008: AV Armchair Drapped Cloth.Shape_MeshPart1
+    400010: AV Armchair Drapped Cloth.Shape_MeshPart2
+    400012: AV Armchair Drapped Cloth.Shape_MeshPart3
+    400014: AV Armchair Drapped Cloth.Shape_MeshPart4
+    400016: AV Armchair.Shape
+    400018: AV Armchair.Shape_MeshPart0
+    400020: AV Armchair.Shape_MeshPart1
+    400022: //RootNode
+    2300000: AV Armchair Drapped Cloth.Shape_MeshPart0
+    2300002: AV Armchair Drapped Cloth.Shape_MeshPart1
+    2300004: AV Armchair Drapped Cloth.Shape_MeshPart2
+    2300006: AV Armchair Drapped Cloth.Shape_MeshPart3
+    2300008: AV Armchair Drapped Cloth.Shape_MeshPart4
+    2300010: AV Armchair.Shape_MeshPart0
+    2300012: AV Armchair.Shape_MeshPart1
+    3300000: AV Armchair Drapped Cloth.Shape_MeshPart0
+    3300002: AV Armchair Drapped Cloth.Shape_MeshPart1
+    3300004: AV Armchair Drapped Cloth.Shape_MeshPart2
+    3300006: AV Armchair Drapped Cloth.Shape_MeshPart3
+    3300008: AV Armchair Drapped Cloth.Shape_MeshPart4
+    3300010: AV Armchair.Shape_MeshPart0
+    3300012: AV Armchair.Shape_MeshPart1
+    4300000: AV Armchair.Shape_MeshPart0
+    4300002: AV Armchair.Shape_MeshPart1
+    4300004: AV Armchair Drapped Cloth.Shape_MeshPart0
+    4300006: AV Armchair Drapped Cloth.Shape_MeshPart1
+    4300008: AV Armchair Drapped Cloth.Shape_MeshPart2
+    4300010: AV Armchair Drapped Cloth.Shape_MeshPart3
+    4300012: AV Armchair Drapped Cloth.Shape_MeshPart4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

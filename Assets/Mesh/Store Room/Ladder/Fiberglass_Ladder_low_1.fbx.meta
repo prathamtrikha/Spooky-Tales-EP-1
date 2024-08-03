@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: e011f481f3f96ce41b48411f5a9b511b
+timeCreated: 1720954714
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Fiberglass_Ladder_Feet_low
+    100002: //RootNode
+    100004: Fiberglass_Ladder_Rail_Front_low
+    100006: Fiberglass_Ladder_Rail_Rear_low
+    100008: Fiberglass_Ladder_Spreader_Arms_low
+    100010: Fiberglass_Ladder_Spreader_Base_low
+    100012: Fiberglass_Ladder_Steps_low
+    100014: Fiberglass_Ladder_Supports_low
+    100016: Fiberglass_Ladder_Top_low
+    400000: Fiberglass_Ladder_Feet_low
+    400002: //RootNode
+    400004: Fiberglass_Ladder_Rail_Front_low
+    400006: Fiberglass_Ladder_Rail_Rear_low
+    400008: Fiberglass_Ladder_Spreader_Arms_low
+    400010: Fiberglass_Ladder_Spreader_Base_low
+    400012: Fiberglass_Ladder_Steps_low
+    400014: Fiberglass_Ladder_Supports_low
+    400016: Fiberglass_Ladder_Top_low
+    2300000: Fiberglass_Ladder_Feet_low
+    2300002: Fiberglass_Ladder_Rail_Front_low
+    2300004: Fiberglass_Ladder_Rail_Rear_low
+    2300006: Fiberglass_Ladder_Spreader_Arms_low
+    2300008: Fiberglass_Ladder_Spreader_Base_low
+    2300010: Fiberglass_Ladder_Steps_low
+    2300012: Fiberglass_Ladder_Supports_low
+    2300014: Fiberglass_Ladder_Top_low
+    3300000: Fiberglass_Ladder_Feet_low
+    3300002: Fiberglass_Ladder_Rail_Front_low
+    3300004: Fiberglass_Ladder_Rail_Rear_low
+    3300006: Fiberglass_Ladder_Spreader_Arms_low
+    3300008: Fiberglass_Ladder_Spreader_Base_low
+    3300010: Fiberglass_Ladder_Steps_low
+    3300012: Fiberglass_Ladder_Supports_low
+    3300014: Fiberglass_Ladder_Top_low
+    4300000: Fiberglass_Ladder_Rail_Front_low
+    4300002: Fiberglass_Ladder_Rail_Rear_low
+    4300004: Fiberglass_Ladder_Steps_low
+    4300006: Fiberglass_Ladder_Top_low
+    4300008: Fiberglass_Ladder_Feet_low
+    4300010: Fiberglass_Ladder_Supports_low
+    4300012: Fiberglass_Ladder_Spreader_Base_low
+    4300014: Fiberglass_Ladder_Spreader_Arms_low
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
